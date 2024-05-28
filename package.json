@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "engines": {
-    "node": "20GIT.x"
+    "node": "20git .x"
   },
   "scripts": {
     "start": "node src",
